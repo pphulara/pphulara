@@ -22,7 +22,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name     : Priyanshu Phulara
+name     : pphulara
 focus    : Systems · Mobile · Full-Stack
 languages: [ C, C++, Dart, Java, TypeScript, Python ]
 tools    : [ Firebase, MySQL, Figma, Git ]
@@ -55,15 +55,21 @@ learning : always...
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pphulara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphulara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=pphulara&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=pphulara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphulara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=pphulara&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
