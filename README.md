@@ -5,9 +5,13 @@
 🔭 **Currently Working On**  
 Building scalable systems and full-stack applications with a focus on clean architecture, performance, and real-world usability.
 
+<br>
+
 🤝 **Looking to Collaborate On**  
 System-level projects, backend-heavy applications, and full-stack products that solve real problems.  
 Interested in system design, backend scaling, and writing highly optimized, production-grade code.
+
+<br>
 
 ⚡ **Fun Fact**  
 I enjoy building things from scratch — from low-level logic to polished user-facing products.
@@ -78,7 +82,11 @@ I enjoy building things from scratch — from low-level logic to polished user-f
 
 <img src="https://github-readme-stats.shion.dev/api?username=pphulara&theme=neon&hide_border=false&include_all_commits=true&count_private=true"/>
 
+<br>
+
 <img src="https://streak-stats.demolab.com/?user=pphulara&theme=neon&hide_border=false"/>
+
+<br>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pphulara&theme=neon&hide_border=false"/>
 
