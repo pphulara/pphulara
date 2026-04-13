@@ -16,8 +16,6 @@ Interested in system design, backend scaling, and writing highly optimized, prod
 ⚡ **Fun Fact**  
 I enjoy building things from scratch — from low-level logic to polished user-facing products.
 
----
-
 ## 🌐 Socials
 
 <a href="https://linkedin.com/in/priyanshu-phulara-b384772b5">
@@ -26,8 +24,6 @@ I enjoy building things from scratch — from low-level logic to polished user-f
 <a href="mailto:pphulara1914@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
 </a>
-
----
 
 ## 💻 Tech Stack
 
@@ -76,8 +72,6 @@ I enjoy building things from scratch — from low-level logic to polished user-f
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
----
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.shion.dev/api?username=pphulara&theme=neon&hide_border=false&include_all_commits=true&count_private=true"/>
@@ -90,10 +84,6 @@ I enjoy building things from scratch — from low-level logic to polished user-f
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pphulara&theme=neon&hide_border=false"/>
 
----
-
 ## ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
