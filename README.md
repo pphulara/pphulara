@@ -1,5 +1,3 @@
-# 💫 About Me
-
 🔭 **Currently Working On**  
 Building scalable systems and full-stack applications with a focus on clean architecture, performance, and real-world usability.
 
@@ -65,19 +63,3 @@ I enjoy building things from scratch — from low-level logic to polished user-f
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pphulara&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=pphulara&theme=neon&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pphulara&theme=neon&hide_border=false&layout=compact)
-
----
-
-## ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
