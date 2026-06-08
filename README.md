@@ -1,72 +1,20 @@
-🔭 **Currently Working On**  
-Building scalable systems and full-stack applications with a focus on clean architecture, performance, and real-world usability.
+# Priyanshu Phulara
 
-🤝 **Looking to Collaborate On**  
-System-level projects, backend-heavy applications, and full-stack products that solve real problems.  
-Interested in system design, backend scaling, and writing highly optimized, production-grade code.
+I like building things end to end — from the low-level logic to a polished, usable product. Right now I'm building software for non-profits and other clients at **ColoredCow**, working across backend, product, and AI strategy, and spending my own time on applied AI — RAG pipelines, model training, and staying enough of a generalist to move between domains without starting over.
 
-⚡ **Fun Fact**  
-I enjoy building things from scratch — from low-level logic to polished user-facing products.
+### Focus
+- **Backend & full-stack** — Django, Next.js, clean architecture, performance
+- **Applied AI** — RAG, model training, AI product thinking
+- **Real-world usability** — systems that solve the actual problem, not a toy version of it
 
----
+### Tech
+![Tech stack](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,django,fastapi,postgres,pytorch,tensorflow,flutter,aws,firebase,vercel,git,github,figma)
 
-## 🌐 Socials
+### Connect
+[LinkedIn](https://linkedin.com/in/priyanshu-phulara-b38477) &nbsp;·&nbsp; [Email](mailto:pphulara1914@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-phulara-b38477)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pphulara1914@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Languages & Core
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Web & Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### 📱 App Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-### 🗄️ Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧠 ML / Data
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### 🛠️ Tools & Design
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-## Contribution diagram
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pphulara&theme=github-light&hide_border=true&area=true" alt="Priyanshu Phulara contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pphulara&theme=github-light&hide_border=true&area=true" alt="Priyanshu Phulara — contribution activity" />
 </p>
