@@ -68,5 +68,5 @@ I enjoy building things from scratch — from low-level logic to polished user-f
 ## Contribution diagram
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinegi2&theme=github-light&hide_border=true&area=true" alt="Priyanshu Phulara contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pphulara&theme=github-light&hide_border=true&area=true" alt="Priyanshu Phulara contribution activity graph" />
 </p>
