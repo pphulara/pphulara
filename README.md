@@ -16,5 +16,5 @@ I like building things end to end — from the low-level logic to a polished, us
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pphulara&theme=github-light&hide_border=true&area=true" alt="Priyanshu Phulara — contribution activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pphulara&theme=github-dark&hide_border=true&area=true" alt="Priyanshu Phulara — contribution activity" />
 </p>
