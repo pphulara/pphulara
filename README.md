@@ -20,4 +20,7 @@ I like building things end to end — from the low-level logic to a polished, us
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pphulara&theme=dark" />
-</p
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphulara&layout=pie&theme=dark" />
+</p>
