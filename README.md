@@ -18,14 +18,11 @@ I like building things end to end — from the low-level logic to a polished, us
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pphulara&theme=dark" />
+      <img src= "https://github-stats-extended.vercel.app/api?username=pphulara&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=blue_navy" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphulara&layout=pie&theme=dark" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pphulara&layout=pie&theme=dark" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pphulara&theme=github-dark&hide_border=true&area=true" alt="Priyanshu Phulara — contribution activity" />
-</p>
